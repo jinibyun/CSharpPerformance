@@ -1,0 +1,1 @@
+Udemy Course: https://www.udemy.com/csharp-performance-tricks-how-to-radically-optimize-your-code/learn/v4/content
