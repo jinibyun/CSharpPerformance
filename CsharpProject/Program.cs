@@ -23,12 +23,20 @@ namespace CsharpProject
             // var test = new FastArray2();
             // var test = new Exception();
             // var test = new Exception2();
-            var test = new Exception3();
-            test.Testing();
+            // var test = new Exception3();
+            // var test = new ForVSForEach();
+            // test.Testing();
+
+            // ----------- Exercise
+            // var exercise = new Exercise1();
+            // var result = exercise.GetCharacterCount("John Doe");
 
 
             // ----------- 2. INTERMEDIATE OPTIMIZATION -----------
-
+            //var deleg = new delegateUse();
+            //deleg.Testing();
+            var factoryClass = new FactoryClass();
+            factoryClass.Testing();
 
 
 

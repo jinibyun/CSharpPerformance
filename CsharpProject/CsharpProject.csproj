@@ -43,12 +43,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AvoidBoxing.cs" />
+    <Compile Include="delegateUse.cs" />
     <Compile Include="Exception.cs" />
     <Compile Include="Exception2.cs" />
     <Compile Include="Exception3.cs" />
+    <Compile Include="Exercise1.cs" />
+    <Compile Include="FactoryClass.cs" />
     <Compile Include="FastArray.cs" />
     <Compile Include="FastArray2.cs" />
     <Compile Include="FastCollection.cs" />
+    <Compile Include="ForVSForEach.cs" />
     <Compile Include="StringConcatenation.cs" />
     <Compile Include="Test.cs" />
     <Compile Include="Program.cs" />
