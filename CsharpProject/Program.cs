@@ -35,13 +35,11 @@ namespace CsharpProject
             // ----------- 2. INTERMEDIATE OPTIMIZATION -----------
             //var deleg = new delegateUse();
             //deleg.Testing();
-            var factoryClass = new FactoryClass();
-            factoryClass.Testing();
-
-
+            //var factoryClass = new FactoryClass();
+            //factoryClass.Testing();
 
             // ----------- 3. ADVANCED OPTIMIZATION -----------
-
+            // about pointers.
         }
     }
 }
